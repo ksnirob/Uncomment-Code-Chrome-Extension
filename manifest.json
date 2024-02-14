@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Show Hidden Banner | Team NA",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Uncomments and executes HTML hidden code in the browser | Developed By Khaled Saifullah.",
   "action": {
     "default_icon": {
